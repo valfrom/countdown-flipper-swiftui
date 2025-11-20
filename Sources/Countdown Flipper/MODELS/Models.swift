@@ -6,7 +6,7 @@
 //
 
 import Foundation
-import SwiftUICore
+import SwiftUI
 
 enum FlipperSectionTypes {
     case topSection, bottomSection
